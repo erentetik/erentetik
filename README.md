@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @erentetik
 - 👀 I’m interested in coding and programing.
-- 🌱 I’m currently working on 'react'
+- 🌱 I’m currently working on 'react' framework.
 - 📫 How to reach me === You can see my socail media links @erentetik.dev website.
 
 
